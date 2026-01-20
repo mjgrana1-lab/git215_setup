@@ -1,6 +1,6 @@
 # git215_setupv2
 ## Author: Mireya Granados
-<!doctype html>
+
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
